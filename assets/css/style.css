@@ -1,7 +1,7 @@
 
 *{
 
-  line-height: 1.5;
+  line-height: 1.15;
 }
        
 
@@ -43,9 +43,9 @@ h4{
     padding:2px;
     right:0;
     left:0;
-    width:100%;
+    width:90%;
     color: #dddddd;
-    font:18px;
+    font:16px;
     background-color: teal;
     text-align: center;
     }
@@ -81,14 +81,14 @@ min-height: 20%;
 
 .img2{
 
-    width:100%;
-   height: 15%;
+    width:90%;
+   height: 13%;
    margin: 10px 0;
 
 }
 
 .container2{
-    width:60%;
+    width:50%;
 }
 
 .containerAll {
